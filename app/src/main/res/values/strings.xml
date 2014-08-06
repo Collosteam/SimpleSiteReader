@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleSiteReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+
+    <!-- Custom string -->
+    <string name="hint_name">Name</string>
+    <!--Hello-->
+    <string name="hello_guys">Hello people!\n Welcom!</string>
+
+    <string name="hello_create_new_user">Please create new user!</string>
+    <string name="hint_pass">Password</string>
+    <string name="hint_pass_conf">Confirm password</string>
+    <string name="action_login">Login</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="hint_email">Email</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_double_fragment">DoubleFragmentActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+
+
+
+</resources>
